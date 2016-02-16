@@ -1,0 +1,29 @@
+{
+  "name": "virtual-hyperscript-parser",
+  "version": "0.1.0",
+  "description": "Parses raw html to a virtual hyperscript structure for DOM diffing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LookLikeAPro/virtual-hyperscript-parser.git"
+  },
+  "keywords": [
+    "hyperscript",
+    "parser",
+    "html",
+    "vdom"
+  ],
+  "author": "looklikeapro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LookLikeAPro/virtual-hyperscript-parser/issues"
+  },
+  "homepage": "https://github.com/LookLikeAPro/virtual-hyperscript-parser#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.0",
+    "virtual-dom": "^2.1.1"
+  }
+}
