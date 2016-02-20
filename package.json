@@ -1,6 +1,6 @@
 {
   "name": "virtual-hyperscript-parser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Parses raw html to a virtual hyperscript structure for DOM diffing.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/LookLikeAPro/virtual-hyperscript-parser#readme",
   "dependencies": {
+    "he": "^0.5.0",
     "htmlparser2": "^3.9.0",
     "virtual-dom": "^2.1.1"
   }
