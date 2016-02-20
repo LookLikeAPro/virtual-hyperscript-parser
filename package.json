@@ -1,6 +1,6 @@
 {
   "name": "virtual-hyperscript-parser",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Parses raw html to a virtual hyperscript structure for DOM diffing.",
   "main": "index.js",
   "scripts": {
